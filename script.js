@@ -8,7 +8,6 @@
 // }
 
 // const variavel = prompt()
-
 // alert(typeof variavel)
 
 
